@@ -1,7 +1,0 @@
----
-title: "Portfolio"
-links:
-  - label: "STAT 331"
-    url: "gapminder-green-energy.html"
-output: postcards::jolla
----
