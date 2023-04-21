@@ -15,6 +15,8 @@ links:
     url: "https://mshsu.github.io/portfolio/nelson-mandela-estimate.pdf"
   - label: STAT365-2
     url: "https://mshsu.github.io/portfolio/gss-grass.pdf"
+  - label: BUS342
+    url: "https://mshsu.github.io/portfolio/tjx-carp.pdf"
   - label: symbulate
     url: "https://mshsu.github.io/portfolio/symbulate-changes.html"
   - label: probasets
