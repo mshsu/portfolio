@@ -1,0 +1,11 @@
+---
+title: "architecture"
+links:
+  - label: ARCH131
+    url: "https://www.dropbox.com/s/ppxuh7wt36ugwj9/Hsu_Martin_ARCH131_F20_Final.pdf?dl=0"
+  - label: ARCH132
+    url: "https://www.dropbox.com/s/i8adp87q24af76r/Hsu_Martin_ARCH132_W21_Final.pdf?dl=0"
+  - label: ARCH133
+    url: "https://www.dropbox.com/s/vqntrrvr5bvttq9/Hsu_Martin_ARCH133_S21_Final.pdf?dl=0"
+output: postcards::jolla
+---
