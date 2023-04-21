@@ -19,5 +19,7 @@ links:
     url: "https://mshsu.github.io/portfolio/symbulate-changes.html"
   - label: probasets
     url: "https://mshsu.github.io/probasets/"
+  - label: actuarial
+    url: "https://mshsu.github.io/portfolio/intern-final-presentation.pdf"
 output: postcards::jolla
 ---
