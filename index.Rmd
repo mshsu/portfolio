@@ -7,8 +7,8 @@ links:
     url: "https://mshsu.github.io/portfolio/nail-submersion.pdf"
   - label: STAT330
     url: "https://mshsu.github.io/portfolio/gapminder-sas-animated.gif"
-  - label: STAT331
-    url: "https://mshsu.github.io/portfolio/gapminder-green-energy.pdf"
+  - label: STAT323
+    url: "https://mshsu.github.io/portfolio/gapminder-green-energy.html"
   - label: STAT334
     url: "https://mshsu.github.io/portfolio/residential-regression.pdf"
   - label: STAT365-1
