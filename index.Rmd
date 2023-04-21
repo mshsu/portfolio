@@ -2,7 +2,7 @@
 title: "portfolio"
 links:
   - label: DATA301
-    url: "https://mshsu.github.io/mlb-ml/index.html"
+    url: "https://mshsu.github.io/mlb-ml/"
   - label: STAT323
     url: "https://mshsu.github.io/portfolio/nail-submersion.pdf"
   - label: STAT330
@@ -18,6 +18,6 @@ links:
   - label: symbulate
     url: "https://mshsu.github.io/portfolio/symbulate-changes.html"
   - label: probasets
-    url: "https://mshsu.github.io/portfolio/probasets.html"
+    url: "https://mshsu.github.io/probasets/"
 output: postcards::jolla
 ---
