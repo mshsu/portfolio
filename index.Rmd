@@ -21,5 +21,7 @@ links:
     url: "https://mshsu.github.io/probasets/"
   - label: actuarial
     url: "https://mshsu.github.io/portfolio/intern-final-presentation.pdf"
+  - label: architecture
+    url: "https://mshsu.github.io/portfolio/arch/"
 output: postcards::jolla
 ---
