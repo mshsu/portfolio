@@ -1,6 +1,8 @@
 ---
 title: "portfolio"
 links:
+  - label: DATA301
+    url: "https://mshsu.github.io/mlb-ml/index.html"
   - label: STAT323
     url: "https://mshsu.github.io/portfolio/nail-submersion.pdf"
   - label: STAT330
