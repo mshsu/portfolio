@@ -1,6 +1,8 @@
 ---
 title: "portfolio"
 links:
+  - label: DATA301
+    url: "https://mshsu.github.io/mlb-ml/index.html"
   - label: STAT323
     url: "https://mshsu.github.io/portfolio/nail-submersion.pdf"
   - label: STAT330
@@ -9,13 +11,13 @@ links:
     url: "https://mshsu.github.io/portfolio/gapminder-green-energy.pdf"
   - label: STAT334
     url: "https://mshsu.github.io/portfolio/residential-regression.pdf"
-  - label: STAT365_1
+  - label: STAT365-1
     url: "https://mshsu.github.io/portfolio/nelson-mandela-estimate.pdf"
-  - label: STAT365_2
+  - label: STAT365-2
     url: "https://mshsu.github.io/portfolio/gss-grass.pdf"
-  - label: Symbulate
+  - label: symbulate
     url: "https://mshsu.github.io/portfolio/symbulate-changes.html"
-  - label: Probasets
+  - label: probasets
     url: "https://mshsu.github.io/portfolio/probasets.html"
 output: postcards::jolla
 ---
