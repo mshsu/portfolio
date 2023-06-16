@@ -21,6 +21,8 @@ links:
     url: "https://github.com/mshsu/compsci-two/"
   - label: CSC203
     url: "https://github.com/mshsu/compsci-three/"
+  - label: CSC365
+    url: "https://mshsu.github.io/portfolio/urbanunrest.html"
   - label: BUS342
     url: "https://mshsu.github.io/portfolio/tjx-carp.pdf"
   - label: symbulate
