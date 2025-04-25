@@ -1,0 +1,19 @@
+---
+title: "stochastic"
+links:
+  - label: APP01 - Simple Random Walk
+    url: "https://mshsu.github.io/portfolio/stochastic/app1.html"
+  - label: APP02 - Markov Chains 1
+    url: "https://mshsu.github.io/portfolio/stochastic/app2.html"
+  - label: APP03 - Markov Chains 2
+    url: "https://mshsu.github.io/portfolio/stochastic/app3.html"
+  - label: APP04 - Markov Chain Monte Carlo
+    url: "https://mshsu.github.io/portfolio/stochastic/app4.html"
+  - label: APP05 - Poisson Process Markov Chain
+    url: "https://mshsu.github.io/portfolio/stochastic/app5.html"
+  - label: FINAL - Intro to Martingales in Finance
+    url: "https://mshsu.github.io/portfolio/stochastic/martingales.pdf"
+output: postcards::jolla
+---
+
+Applications and simulations of stochastic processes.
