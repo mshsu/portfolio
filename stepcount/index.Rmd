@@ -1,0 +1,15 @@
+---
+title: "stepcount"
+links:
+  - label: Presentation
+    url: "https://mshsu.github.io/portfolio/stepcount/stepcount-slides.pdf"
+  - label: Final Report
+    url: "https://mshsu.github.io/portfolio/stepcount/stepcount-report.pdf"
+output: postcards::jolla
+---
+
+Using CalPoly activity data for evaluation and improvement of OxWalk step counting algorithms for wearable devices, developed by the UK Biobank.
+
+*Under the guidance of Dr. Hunter Glanz, Dr. Jonathan Ventura, and Dr. Sarah Keadle.*
+
+*In collaboration with Brendan Callender, Kirina Sirohi, Jadyn Ellis, and Paige Dolan.*

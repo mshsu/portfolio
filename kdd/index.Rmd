@@ -1,0 +1,27 @@
+---
+title: "kdd"
+links:
+  - label: CODE - Implementation
+    url: "https://github.com/mshsu/kdd/"
+  - label: LAB01 - Data Exploration
+    url: "https://mshsu.github.io/portfolio/kdd/Lab1-Report.pdf"
+  - label: LAB02 - Association Rules Mining
+    url: "https://mshsu.github.io/portfolio/kdd/Lab2-Report.pdf"
+  - label: LAB03 - Classification
+    url: "https://mshsu.github.io/portfolio/kdd/Lab3-Report.pdf"
+  - label: LAB04 - Clustering
+    url: "https://mshsu.github.io/portfolio/kdd/Lab4-Report.pdf"
+  - label: LAB05 - Recommender Systems & Collaborative Filtering
+    url: "https://mshsu.github.io/portfolio/kdd/Lab5-Report.pdf"
+  - label: LAB06 - Text Mining
+    url: "https://mshsu.github.io/portfolio/kdd/Lab6-Report.pdf"
+  - label: LAB07 - Page Rank
+    url: "https://mshsu.github.io/portfolio/kdd/Lab7-Report.pdf"
+  - label: FINAL - CMS Medicare Claims Analysis
+    url: "https://mshsu.github.io/portfolio/kdd/cms.pdf"
+output: postcards::jolla
+---
+
+Knowledge discovery from data. Ground-up, homebrew implementations and applications of machine learning algorithms in Python. Includes a final application of implementations to CMS Medicare synthetic claims data.
+
+*In collaboration with Lana Huynh, Rachel Roggenkemper, Brendan Callender, Andrew Kerr, and Sophia Chung.*

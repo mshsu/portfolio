@@ -1,29 +1,39 @@
 ---
 title: "portfolio"
 links:
-  - label: DATA301
+  - label: DATA301 - Intro to Data Science
     url: "https://mshsu.github.io/mlb-ml/"
-  - label: STAT323
+  - label: DATA403 - Data Science Projects Laboratory
+    url: "https://mshsu.github.io/portfolio/dlab/"
+  - label: DATA452 - Data Science Capstone
+    url: "https://mshsu.github.io/portfolio/stepcount/"
+  - label: STAT323 - Design & Analysis of Experiments I
     url: "https://mshsu.github.io/portfolio/nail-submersion.pdf"
-  - label: STAT330
+  - label: STAT330 - Statistical Computing with SAS
     url: "https://mshsu.github.io/portfolio/gapminder-sas-animated.gif"
-  - label: STAT331
+  - label: STAT331 - Statistical Computing with R
     url: "https://mshsu.github.io/portfolio/gapminder-green-energy.html"
-  - label: STAT334
+  - label: STAT334 - Applied Linear Models
     url: "https://mshsu.github.io/portfolio/residential-regression.pdf"
-  - label: STAT365-1
-    url: "https://mshsu.github.io/portfolio/nelson-mandela-estimate.pdf"
-  - label: STAT365-2
-    url: "https://mshsu.github.io/portfolio/gss-grass.pdf"
-  - label: CSC101
+  - label: STAT365 - Statistical Communication
+    url: "https://mshsu.github.io/portfolio/coms/"
+  - label: STAT417 - Survival Analysis Methods
+    url: "https://mshsu.github.io/portfolio/balance.pdf"
+  - label: STAT545 - Applied Stochastic Processes
+    url: "https://mshsu.github.io/portfolio/martingales.pdf"
+  - label: CSC101 - Fundamentals of Computer Science
     url: "https://github.com/mshsu/compsci-one/"
-  - label: CSC202
+  - label: CSC202 - Data Structures
     url: "https://github.com/mshsu/compsci-two/"
-  - label: CSC203
+  - label: CSC203 - Project-Based Object-Oriented Programming & Design
     url: "https://github.com/mshsu/compsci-three/"
-  - label: CSC365
+  - label: CSC365 - Intro to Database Systems
     url: "https://mshsu.github.io/portfolio/urbanunrest.html"
-  - label: BUS342
+  - label: CSC369 - Intro to Distributed Systems
+    url: "https://mshsu.github.io/portfolio/dsys/"
+  - label: CSC466 - Knowledge Discovery from Data
+    url: "https://mshsu.github.io/portfolio/kdd"
+  - label: BUS342 - Fundamentals of Corporate Finance
     url: "https://mshsu.github.io/portfolio/tjx-carp.pdf"
   - label: symbulate
     url: "https://mshsu.github.io/portfolio/symbulate-changes.html"

@@ -1,0 +1,13 @@
+---
+title: "dsys"
+links:
+  - label: Implementation
+    url: "https://github.com/mshsu/csc369-project"
+  - label: Presentation
+    url: "https://mshsu.github.io/portfolio/dsys/crashes.pdf"
+output: postcards::jolla
+---
+
+Ground-up, homebrew implementation of C4.5 Decision Tree and Random Forest models in Scala. Uses object-oriented structure and relies on resilient distributed datasets (RDDs). 
+
+*In collaboration with Brendan Callender and Kyle Lew.*

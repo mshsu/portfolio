@@ -1,0 +1,15 @@
+---
+title: "dlab"
+links:
+  - label: CASE01
+    url: "https://github.com/mshsu/data403-case1"
+  - label: CASE02
+    url: "https://github.com/mshsu/data403-case2"
+output: postcards::jolla
+---
+
+Full stack data science consulting case studies. From business motivation, to model creation, to presentation.
+
+*CASE01 Collaborating Consultants: Andrew Kerr, Bella McCarty, Erik Luu, Matteo Shafer*
+
+*CASE02 Collaborating Consultants: Alex Arrieta, Josh Blank, Brendan Callender, Sophia Chung*

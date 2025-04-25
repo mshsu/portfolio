@@ -1,0 +1,11 @@
+---
+title: "coms"
+links:
+  - label: gss-grass
+    url: "https://mshsu.github.io/portfolio/coms/gss-grass.pdf"
+  - label: nelson-mandela-estimate
+    url: "https://mshsu.github.io/portfolio/coms/nelson-mandela-estimate.pdf"
+output: postcards::jolla
+---
+
+Exercises in statistical communication.
