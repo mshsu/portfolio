@@ -20,7 +20,7 @@ links:
   - label: STAT417 - Survival Analysis Methods
     url: "https://mshsu.github.io/portfolio/balance.pdf"
   - label: STAT545 - Applied Stochastic Processes
-    url: "https://mshsu.github.io/portfolio/martingales.pdf"
+    url: "https://mshsu.github.io/portfolio/stochastic/"
   - label: CSC101 - Fundamentals of Computer Science
     url: "https://github.com/mshsu/compsci-one/"
   - label: CSC202 - Data Structures
